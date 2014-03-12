@@ -11,7 +11,7 @@ destination:      _gh_pages
 host:             0.0.0.0
 port:             9001
 baseurl:          /
-url:              http://getbootstrap.com
+url:              http://web.caibaojian.com
 encoding:         UTF-8
 
 exclude:
